@@ -85,4 +85,5 @@ Had a ton of fun building and integrating various subgraphs showing the seamless
         This marks the end of <b>The Graph's SUNRISE UPGRADE PROGRAM</b>
     </p>
     <h3>Cheers to The Graph! Cheers to Web3 🥂</h3>
+    <img src="./screenshots/the-graph.png" />
 </div>

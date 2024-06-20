@@ -58,19 +58,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 ## Previous Missions
 
 <div align="center">
-    <a href="https://github.com/E-Zbox/azuki-subgraph-dapp" _target="blank"><img src="./screenshots/mission-one-azuki.png" /></a>
+    <a href="https://github.com/E-Zbox/azuki-subgraph-dapp" target="_blank"><img src="./screenshots/mission-one-azuki.png" /></a>
     <p><i>MISSION ONE</i> - <b>AZUKI</b></p>
     <br/>
 </div>
 
 <div align="center">
-    <a href="https://github.com/E-Zbox/sunrise-exchange-club-dapp" _target="blank"><img src="./screenshots/mission-two-sec.png" /></a>
+    <a href="https://github.com/E-Zbox/sunrise-exchange-club-dapp" target="_blank"><img src="./screenshots/mission-two-sec.png" /></a>
     <p><i>MISSION TWO</i> - <b>Sunrise Exchange Club</b></p>
     <br/>
 </div>
 
 <div align="center">
-    <a href="https://github.com/E-Zbox/liquidity-lens-dapp" _target="blank"><img src="./screenshots/mission-four-l2.png" /></a>
+    <a href="https://github.com/E-Zbox/liquidity-lens-dapp" target="_blank"><img src="./screenshots/mission-four-l2.png" /></a>
     <p><i>MISSION FOUR</i> - <b>Liquidity Lens</b></p>
     <br/>
 </div>

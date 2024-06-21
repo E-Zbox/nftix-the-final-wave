@@ -87,3 +87,7 @@ Had a ton of fun building and integrating various subgraphs showing the seamless
     <h3>Cheers to The Graph! Cheers to Web3 🥂</h3>
     <img src="./screenshots/the-graph.png" />
 </div>
+
+## NEAR Binance (Deposit)
+
+10660d34546e8f699c13ddc3966717fc4c67db3f947b922adc8486c220c09e21
